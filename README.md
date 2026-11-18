@@ -132,6 +132,24 @@ Management Reports
 - Monthly Inventory Reporting
 - Power BI Inventory Analytics
 
+## Power BI Dashboard
+
+The project includes a Power BI dashboard for inventory monitoring and warehouse management reporting.
+
+### Dashboard Components
+
+- Total Materials KPI
+- Total Received KPI
+- Total Issued KPI
+- Current Stock KPI
+- Current Stock by Material
+- Reorder Level Monitoring
+- Material Selection Filter
+
+### Business Value
+
+The dashboard provides management with visibility into inventory movements, current stock levels, material availability, and reorder requirements to support warehouse and procurement decisions.
+
 ## Author
 
 Rollan P. Garcia
